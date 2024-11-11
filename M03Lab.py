@@ -1,3 +1,10 @@
+#Author: Daniel Bierman
+#File name: M03Lab.py
+#Purpose: Prompt a user for a vehicle type and then prompt the user for details of their vehicle and then display
+#         vehicle type and the details of the vehicle once user is done with program.
+
+
+
 class Vehicle:
     def __init__(self):
         self.vehicleType = input("Enter vehicle type: ")
